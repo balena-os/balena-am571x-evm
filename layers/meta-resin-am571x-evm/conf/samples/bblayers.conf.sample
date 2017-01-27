@@ -15,7 +15,7 @@ BBLAYERS ?= " \
     ${TOPDIR}/../layers/meta-ti \
     ${TOPDIR}/../layers/meta-resin/meta-resin-common \
     ${TOPDIR}/../layers/meta-resin/meta-resin-morty \
-    ${TOPDIR}/../layers/meta-resin-am57xx-evm \
+    ${TOPDIR}/../layers/meta-resin-am571x-evm \
     ${TOPDIR}/../layers/oe-meta-go \
     "
 

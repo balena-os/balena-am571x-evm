@@ -1,4 +1,4 @@
-#  resin-am57xx-evm repository
+#  resin-am571x-evm repository
 
 ## Clone/Initialize the repository
 
