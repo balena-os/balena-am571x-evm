@@ -1,6 +1,8 @@
 Change log
 -----------
 
+* Fix icon name [Andrei]
+
 # v2.0.0-beta.9 - 2017-02-07
 
 * Update meta-resin to v2.0-beta.9 [Andrei]
