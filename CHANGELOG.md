@@ -1,6 +1,8 @@
 Change log
 -----------
 
+# v2.0.1-beta.9 - 2017-02-09
+
 * Fix icon name [Andrei]
 
 # v2.0.0-beta.9 - 2017-02-07
