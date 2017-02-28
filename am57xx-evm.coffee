@@ -37,9 +37,9 @@ module.exports =
 	yocto:
 		machine: 'am57xx-evm'
 		image: 'resin-image-flasher'
-		fstype: 'resin-sdcard'
+		fstype: 'resinos-img'
 		version: 'yocto-morty'
-		deployArtifact: 'resin-image-flasher-am57xx-evm.resin-sdcard'
+		deployArtifact: 'resin-image-flasher-am57xx-evm.resinos-img'
 		compressed: true
 
 	options: [ networkOptions.group ]
