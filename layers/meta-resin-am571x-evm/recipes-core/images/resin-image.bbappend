@@ -1,1 +1,1 @@
-IMAGE_FSTYPES_append = " resin-sdcard"
+IMAGE_FSTYPES_append = " resinos-img"
