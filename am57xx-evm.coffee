@@ -15,7 +15,7 @@ module.exports =
 	aliases: [ 'am571x-evm' ]
 	name: 'AM571X EVM'
 	arch: 'armv7hf'
-	state: 'deprecated'
+	state: 'discontinued'
 
 	stateInstructions:
 		postProvisioning: postProvisioningInstructions
